@@ -23,47 +23,47 @@ Furthermore, all the knowledge I gathered will be available in my [Notes](https:
   <a href="https://www.linkedin.com/in/thales-xisto-de-souza-1167021bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+## 42 Projects
 <div align=center>
-	<h1>42 Projects</h1>
 	<a href="https://github.com/ThalesXS/42-libft">
-		<img src="srcs/img/libft.png" height="70px" widht="70px" alt="libft">
+		<img src="srcs/img/libft.png" height="100px" widht="100px" alt="libft">
 	</a>
 	<br>
 	<a href="https://github.com/ThalesXS/42-ft_printf">
-		<img src="srcs/img/ft_printf.png" height="70px" widht="70px" alt="ft_printf">
+		<img src="srcs/img/ft_printf.png" height="100px" widht="100px" alt="ft_printf">
 	</a>
 	<a href="https://github.com/ThalesXS/42-get_next_line">
-		<img src="srcs/img/get_next_line.png" height="70px" widht="70px" alt="get_next_line">
+		<img src="srcs/img/get_next_line.png" height="100px" widht="100px" alt="get_next_line">
 	</a>
 	<a href="https://github.com/ThalesXS/42-born2beroot">
-		<img src="srcs/img/born2beroot.png" height="70px" widht="70px" alt="born2beroot">
+		<img src="srcs/img/born2beroot.png" height="100px" widht="100px" alt="born2beroot">
 	</a>
 	<br>
 	<a href="https://github.com/ThalesXS/42-so_long">
-		<img src="srcs/img/so_long.png" height="70px" widht="70px" alt="so_long">
+		<img src="srcs/img/so_long.png" height="100px" widht="100px" alt="so_long">
 	</a>
 	<a href="https://github.com/ThalesXS/42-minitalk">
-		<img src="srcs/img/minitalk.png" height="70px" widht="70px" alt="minitalk">
+		<img src="srcs/img/minitalk.png" height="100px" widht="100px" alt="minitalk">
 	</a>
 	<a href="https://github.com/ThalesXS/42-push_swap">
-		<img src="srcs/img/push_swap.png" height="70px" widht="70px" alt="push_swap">
+		<img src="srcs/img/push_swap.png" height="100px" widht="100px" alt="push_swap">
 	</a>
 	<br>
 	<a href="https://github.com/ThalesXS/42-philosophers">
-		<img src="srcs/img/philosophers.png" height="70px" widht="70px" alt="philosophers">
+		<img src="srcs/img/philosophers.png" height="100px" widht="100px" alt="philosophers">
 	</a>
 	<a href="https://github.com/ThalesXS/42-minishell">
-		<img src="srcs/img/minishell.png" height="70px" widht="70px" alt="minishell">
+		<img src="srcs/img/minishell.png" height="100px" widht="100px" alt="minishell">
 	</a>
 	<br>
 	<a href="https://github.com/ThalesXS/42-cub3d">
-		<img src="srcs/img/cub3d.png" height="70px" widht="70px" alt="cub3d">
+		<img src="srcs/img/cub3d.png" height="100px" widht="100px" alt="cub3d">
 	</a>
 	<a href="https://github.com/ThalesXS/42-netpractice">
-		<img src="srcs/img/netpractice.png" height="70px" widht="70px" alt="netpractice">
+		<img src="srcs/img/netpractice.png" height="100px" widht="100px" alt="netpractice">
 	</a>
 	<br>
 	<a href="https://github.com/ThalesXS/42-cpp">
-		<img src="srcs/img/cpp.png" height="70px" widht="70px" alt="cpp">
+		<img src="srcs/img/cpp.png" height="100px" widht="100px" alt="cpp">
 	</a>
 </div>
