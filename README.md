@@ -25,10 +25,12 @@ Furthermore, all the knowledge I gathered will be available in my [Notes](https:
 
 ## 42 Projects
 <div align=center>
+	<h3>Rank 0</h3>
 	<a href="https://github.com/ThalesXS/42-libft">
 		<img src="srcs/img/libft.png" height="100px" widht="100px" alt="libft">
 	</a>
 	<br>
+	<h3>Rank 1</h3>
 	<a href="https://github.com/ThalesXS/42-ft_printf">
 		<img src="srcs/img/ft_printf.png" height="100px" widht="100px" alt="ft_printf">
 	</a>
@@ -39,6 +41,7 @@ Furthermore, all the knowledge I gathered will be available in my [Notes](https:
 		<img src="srcs/img/born2beroot.png" height="100px" widht="100px" alt="born2beroot">
 	</a>
 	<br>
+	<h3>Rank 2</h3>
 	<a href="https://github.com/ThalesXS/42-so_long">
 		<img src="srcs/img/so_long.png" height="100px" widht="100px" alt="so_long">
 	</a>
@@ -49,6 +52,7 @@ Furthermore, all the knowledge I gathered will be available in my [Notes](https:
 		<img src="srcs/img/push_swap.png" height="100px" widht="100px" alt="push_swap">
 	</a>
 	<br>
+	<h3>Rank 3</h3>
 	<a href="https://github.com/ThalesXS/42-philosophers">
 		<img src="srcs/img/philosophers.png" height="100px" widht="100px" alt="philosophers">
 	</a>
@@ -56,6 +60,7 @@ Furthermore, all the knowledge I gathered will be available in my [Notes](https:
 		<img src="srcs/img/minishell.png" height="100px" widht="100px" alt="minishell">
 	</a>
 	<br>
+	<h3>Rank 4</h3>
 	<a href="https://github.com/ThalesXS/42-cub3d">
 		<img src="srcs/img/cub3d.png" height="100px" widht="100px" alt="cub3d">
 	</a>
@@ -63,7 +68,21 @@ Furthermore, all the knowledge I gathered will be available in my [Notes](https:
 		<img src="srcs/img/netpractice.png" height="100px" widht="100px" alt="netpractice">
 	</a>
 	<br>
+	<h3>Rank 4 & 5</h3>
 	<a href="https://github.com/ThalesXS/42-cpp">
 		<img src="srcs/img/cpp.png" height="100px" widht="100px" alt="cpp">
+	</a>
+	<br>
+	<h3>Rank 5</h3>
+	<a href="https://github.com/ThalesXS/42-ft_irc">
+		<img src="srcs/img/ft_irc.png" height="100px" widht="100px" alt="cpp">
+	</a>
+	<a href="https://github.com/ThalesXS/42-inception">
+		<img src="srcs/img/inception.png" height="100px" widht="100px" alt="cpp">
+	</a>
+	<br>
+	<h3>Rank 6</h3>
+	<a href="https://github.com/ThalesXS/42-ft_transcendence">
+		<img src="srcs/img/ft_transcendence.png" height="100px" widht="100px" alt="cpp">
 	</a>
 </div>
