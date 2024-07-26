@@ -4,18 +4,6 @@ Here you'll be able to see all my academic and personal projects (~~if there are
 
 Furthermore, all the knowledge I gathered will be available in my [Notes](https://github.com/ThalesXS/Notes) project, currently only in portuguese, feel free to take a look.
 
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=ThalesXS&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=ThalesXS&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-  <a href = "mailto:thalesxisto@gmail.com">
-  	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/thales-xisto-de-souza-1167021bb/" target="_blank">
-  	<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
-  </a>
 
 ## Skills
 
@@ -31,6 +19,19 @@ Furthermore, all the knowledge I gathered will be available in my [Notes](https:
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="70px" widht="70px" alt="Git">
   <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code">
   <img width="70px" src="srcs/img/clion.svg" alt="JetBrains C Lion">
+</div>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=ThalesXS&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=ThalesXS&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div align=center>
+  <a href = "mailto:thalesxisto@gmail.com">
+  	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/thales-xisto-de-souza-1167021bb/" target="_blank">
+  	<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
+  </a>
 </div>
 
 ## 42 Projects
