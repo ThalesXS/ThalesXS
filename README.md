@@ -13,12 +13,17 @@ Furthermore, all the knowledge I gathered will be available in my [Notes](https:
 ## Skills
 
 <div align=center>
-  <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language"><img src="https://i.imgur.com/2tkmLF2.png" height="70px" widht="70px" alt="C Programming Language"></a>
-	<img src="https://i.imgur.com/wgik4Wp.png" height="70px" widht="70px" alt="HTML">
-	<img src="https://i.imgur.com/IycOl6h.png" height="70px" widht="70px" alt="CSS">
-	<img src="https://i.imgur.com/eJU75IJ.png" height="70px" widht="70px" alt="JavaScript">
-  <img width="70px" src="https://i.imgur.com/yY111FZ.png" alt="Visual Studio Code">
-  <img width="70px" src="https://i.imgur.com/FEabgH9.png" alt="JetBrains C Lion">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height=70px" widht=70px" alt="C">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="70px" widht="70px" alt="C++">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="70px" widht="70px" alt="JavaScript">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="70px" widht="70px" alt="HTML5">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="70px" widht="70px" alt="CSS3">
+	<img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python">
+	<img width="70px" src="srcs/img/swift.svg" alt="Swift">
+	<img src="https://i.imgur.com/7DkX1WS.png" height="70px" widht="70px" alt="Linux">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="70px" widht="70px" alt="Git">
+  <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code">
+  <img width="70px" src="srcs/img/clion.svg" alt="JetBrains C Lion">
 
   <br>
   <a href = "mailto:thalesxisto@gmail.com">
