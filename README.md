@@ -20,6 +20,9 @@ Furthermore, all the knowledge I gathered will be available in my [Notes](https:
   <img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code">
   <img width="70px" src="srcs/img/clion.svg" alt="JetBrains C Lion">
 </div>
+
+## GitHub Status
+
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=ThalesXS&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
